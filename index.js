@@ -22,5 +22,5 @@ function dec(n) {
   return n -= 1
 }
 
-function inc(n)
+function make(n)
 return parseInt(n, 10).
