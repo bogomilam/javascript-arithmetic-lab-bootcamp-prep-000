@@ -21,6 +21,6 @@ function inc(n) {
 function dec(n) {
   return n -= 1
 }
-var number = 5
+
 function inc(n)
 return parseInt(n, 10).
