@@ -14,4 +14,4 @@ function multiply(x, y) {
 function divide(x, y) {
   return x / y
 }
-var number = 5
+var number = 10
