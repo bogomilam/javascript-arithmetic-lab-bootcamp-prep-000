@@ -15,6 +15,6 @@ function divide(x, y) {
   return x / y
 }
 
-function inc(+,+) {
+function inc(x,y) {
   return x ++ y
 }
