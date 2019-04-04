@@ -21,4 +21,5 @@ function inc(n) {
 function dec(n) {
   return n -= 1
 }
-parseInt(n, 10)
+function 
+return parseInt(n, 10).
