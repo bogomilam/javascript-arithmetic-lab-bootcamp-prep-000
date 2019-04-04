@@ -14,6 +14,6 @@ function multiply(x, y) {
 function divide(x, y) {
   return x / y
 }
-function inc(+,+) {
-  return x / y
+function inc(++) {
+  return x + y
 }
